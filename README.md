@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection
+# Mine VS Rock Prediction
